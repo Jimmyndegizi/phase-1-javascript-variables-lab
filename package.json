@@ -1,0 +1,17 @@
+{
+  "name": "phase-1-javascript-variables-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.7.3"
+  }
+}
